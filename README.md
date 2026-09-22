@@ -6,7 +6,7 @@ I’m an international business executive and strategic advisor with 17+ years o
 
 My career has been built around a recurring challenge: how to turn technology into business growth.
 
-Here is an example that tries to simplify and show what I deliver
+This profile showcases how I approach that challenge in practice — combining business strategy, AI, product thinking and execution.
 
 ## Featured Project
 
@@ -37,9 +37,9 @@ The project reflects how I approach AI adoption: start with the business problem
 
 I have worked both inside digital businesses and marketplaces and alongside technology providers selling solutions to those businesses. This has given me experience on both sides of technology adoption — understanding the commercial and operational needs of companies, while also understanding how technology providers need to position, sell, implement and scale their solutions.
 
-Today, I am particularly interested in how AI, automation, data and emerging technologies can be translated into practical business applications, competitive advantage and measurable growth.
+Today, I am particularly interested in how AI, automation, data and emerging technologies can be translated into practical business applications, competitive advantage and measurable 
 
-🚀 What I work on
+## 🚀 What I work on
 
 * Growth & Business Development — identifying new markets, customers, partnerships, products and revenue opportunities
 * AI Strategy & Adoption — helping businesses identify where AI can create meaningful operational or commercial value
@@ -49,7 +49,7 @@ Today, I am particularly interested in how AI, automation, data and emerging tec
 * Product & Monetization Strategy — developing products, pricing models and new revenue streams
 * Strategic Partnerships — connecting technology providers, platforms and businesses to create new commercial opportunities
 
-🔬 What I’m exploring here
+## 🔬 What I’m exploring here
 
 I use GitHub as a practical laboratory for exploring how AI and emerging technologies can solve real business problems.
 
@@ -65,7 +65,7 @@ Rather than focusing on software engineering itself, I’m interested in what te
 🚗 AutoTech and automotive marketplaces
 🧪 Rapid prototyping with AI-assisted development
 
-💡 The question behind many of my projects
+## 💡 The question behind many of my projects
 
 How can companies turn the extraordinary capabilities emerging from AI into actual business value?
 
@@ -75,7 +75,7 @@ It involves identifying the right problems, redesigning processes, understanding
 
 This GitHub is where I explore some of those opportunities through research, data, prototypes and practical experiments.
 
-🌍 My perspective
+## 🌍 My perspective
 
 My career has given me experience from both sides of the technology equation.
 
@@ -89,14 +89,15 @@ Start with the business problem. Understand the customer. Then determine how tec
 
 My deepest sector experience is in digital marketplaces, PropTech and AutoTech, but the underlying challenges — growth, technology adoption, commercialization, international expansion and business transformation — apply across industries.
 
-🛠 Areas of interest & experimentation
+## 🛠 Areas of interest & experimentation
 
 Artificial Intelligence · AI Agents · Business Automation · Growth Strategy · Business Development · International Expansion · Technology Commercialization · Digital Transformation · Data & Analytics · Marketplace Strategy · PropTech · AutoTech
 
 ⸻
 
-Selected projects
+## Selected Projects
 
-This portfolio will contain practical experiments, research and prototypes exploring how technology can address business challenges.
+### AI Business Opportunity Mapper
+A business-first decision-support application for identifying, prioritizing and executing high-value AI opportunities.
 
-My objective isn’t to showcase software engineering for its own sake. It is to demonstrate how I use technology, AI, data and commercial thinking to identify opportunities and solve business problems.
+More projects will follow around AI adoption, business automation, commercial intelligence, digital growth and technology-enabled business transformation.
