@@ -1,103 +1,117 @@
-## Javier Ortiz Sanz
+# Javier Ortiz Sanz
 
-Growth & Technology Executive | AI · Business Development · International Expansion · Digital Strategy
+### Growth & Technology Executive | AI · Business Development · International Expansion · Digital Strategy
 
-I’m an international business executive and strategic advisor with 17+ years of experience building businesses, developing new revenue streams and driving international growth across technology companies and digital platforms.
+I am a growth and technology executive and independent strategic advisor with **17+ years of experience building revenue, expanding internationally and commercialising technology** across digital businesses.
 
-My career has been built around a recurring challenge: how to turn technology into business growth.
+I have spent roughly 2 decades working at the intersection of **growth, technology providers, digital marketplaces, international business, start-up ventures, investment and seed-capital raising** — both inside digital businesses adopting technology and alongside technology providers taking products to market.
 
-This profile showcases how I approach that challenge in practice — combining business strategy, AI, product thinking and execution.
+My deepest operating experience is in **online marketplaces, PropTech and AutoTech**, but the management challenges I work on are broader: **technology adoption, growth, international expansion, go-to-market and management strategy, monetisation, partnerships, investment and business-model transformation**.
 
-## Featured Project
+> **I use AI, data and technology to turn commercial problems into strategies, decision tools, prototypes and executable growth plans.**
 
-### AI Business Opportunity Mapper
+---
+
+# Featured Portfolio
+
+## AI-Assisted Growth Strategy Casebook
+
+### Six real business challenges. Six different strategic problems. One management question: how do you turn technology and market opportunity into a business that can actually grow?
+
+This interactive portfolio reconstructs **six real-world strategic advisory engagements**, showing how I combine market evidence, AI-assisted research, technology understanding and commercial judgment to move from diagnosis to management decisions and execution.
+
+The cases cover:
+
+- **International expansion** for an automotive data-intelligence technology company
+- Moving marketplaces **from leads toward trusted transactions**
+- **LATAM expansion and business planning** for an AI PropTech company
+- **Monetising marketplace data, audience and inventory**
+- Rebuilding an **automotive marketplace growth engine**
+- Redesigning marketplace **pricing and dealer incentives to grow inventory**
+
+### [Explore the Interactive Strategy Casebook →](https://javier962.github.io/ai-assisted-growth-strategy-casebook/)
+
+[View the Casebook repository →](https://github.com/javier962/ai-assisted-growth-strategy-casebook)
+
+---
+
+# Selected Projects
+
+## AI Business Opportunity Mapper
 
 **From business challenge → AI opportunity → management decision → 90-day action plan**
 
-I designed and built an interactive decision-support application that helps companies identify where AI could create meaningful business value, prioritize opportunities using a structured framework, challenge the model's recommendations with management judgment, and translate the final priorities into a 90-day execution plan.
+I designed and built an interactive decision-support application that combines **LLM reasoning with a structured management framework** to help companies identify where AI could create meaningful business value, evaluate opportunities and translate priorities into execution.
 
-The project includes:
+The model combines AI-assisted opportunity discovery with transparent assessment across business value, feasibility, complexity and risk — followed by management calibration and a 90-day action plan.
 
-- Context-based AI opportunity identification
-- Business value, feasibility, complexity and risk assessment
-- Model-generated vs. management-calibrated rankings
-- Quick Win / Strategic Bet / Enabler / Experiment classification
-- Saved business cases and scenario analysis
-- 90-day execution roadmaps
-- Opportunity-specific KPIs
-- PDF, CSV and TXT export
+### [Try the live application →](https://javier962.github.io/ai-business-opportunity-mapper/)
 
-**Live application:**  
-https://javier962.github.io/ai-business-opportunity-mapper/
+[View the repository →](https://github.com/javier962/ai-business-opportunity-mapper)
 
-**Project repository:**  
-https://github.com/javier962/ai-business-opportunity-mapper
+---
 
-The project reflects how I approach AI adoption: start with the business problem, understand where technology can create measurable value, retain management judgment, and turn strategy into practical execution.
+## From Classifieds to Transactions
 
-I have worked both inside digital businesses and marketplaces and alongside technology providers selling solutions to those businesses. This has given me experience on both sides of technology adoption — understanding the commercial and operational needs of companies, while also understanding how technology providers need to position, sell, implement and scale their solutions.
+**Designing an asset-light C2C automotive marketplace**
 
-Today, I am particularly interested in how AI, automation, data and emerging technologies can be translated into practical business applications, competitive advantage and measurable 
+An AI-assisted strategy and financial business case exploring how an automotive classifieds platform could evolve beyond advertising and lead generation toward a **transaction-enabled marketplace**.
 
-## 🚀 What I work on
+The project connects strategy, marketplace economics and financial modelling across transaction protection, inspection, warranty, financing, ownership transfer and delivery — without requiring the marketplace to own vehicle inventory.
 
-* Growth & Business Development — identifying new markets, customers, partnerships, products and revenue opportunities
-* AI Strategy & Adoption — helping businesses identify where AI can create meaningful operational or commercial value
-* Technology Commercialization — turning technology capabilities into propositions that customers understand, adopt and pay for
-* International Expansion — market entry, partnerships, go-to-market strategy and scaling businesses across countries
-* Digital Transformation — connecting business objectives with technology, automation and data
-* Product & Monetization Strategy — developing products, pricing models and new revenue streams
-* Strategic Partnerships — connecting technology providers, platforms and businesses to create new commercial opportunities
+[View the strategy & business case →](https://github.com/javier962/from-classifieds-to-transactions)
 
-## 🔬 What I’m exploring here
+---
 
-I use GitHub as a practical laboratory for exploring how AI and emerging technologies can solve real business problems.
+# How I Work
 
-Rather than focusing on software engineering itself, I’m interested in what technology makes possible:
+My career has put me on **both sides of the technology equation**:
 
-🤖 AI agents and business automation
-📈 AI-powered growth and commercial intelligence
-🔎 Intelligent search, discovery and knowledge systems
-📊 Data-driven decision making
-🌍 International business and market intelligence
-💼 AI tools for sales and business development
-🏠 PropTech and digital marketplaces
-🚗 AutoTech and automotive marketplaces
-🧪 Rapid prototyping with AI-assisted development
+- inside marketplaces and digital businesses deciding how technology should improve **growth, monetisation and customer experience**;
+- alongside technology and AI providers determining how products should be **positioned, distributed, integrated and sold**;
+- and around **start-up ventures, investment and seed-capital raising**, where opportunity, commercial validation, capital and growth have to connect.
 
-## 💡 The question behind many of my projects
+I use AI extensively for **research, synthesis, scenario exploration, analysis and prototyping**, but I do not treat AI output as strategy.
 
-How can companies turn the extraordinary capabilities emerging from AI into actual business value?
+My working model is:
 
-That question goes far beyond implementing an AI tool.
+**Human experience & hypothesis → AI-assisted research and synthesis → source validation → strategic analysis → commercial judgment → executable strategy**
 
-It involves identifying the right problems, redesigning processes, understanding customers, creating new products and revenue models, improving decision-making, and ultimately connecting technology with business strategy and execution.
+---
 
-This GitHub is where I explore some of those opportunities through research, data, prototypes and practical experiments.
+# What I Bring
 
-## 🌍 My perspective
+**Growth & Commercial Strategy**  
+Building new revenue streams, monetisation models and growth plans.
 
-My career has given me experience from both sides of the technology equation.
+**International Expansion**  
+Market prioritisation, market entry, localisation, distribution and partner-led growth.
 
-I have held leadership and growth roles within international digital businesses and marketplaces, including Mitula Group / Lifull Connect and Encuentra24, working on international expansion, revenue growth, monetization and partnerships.
+**Technology Commercialisation**  
+Turning technology capabilities into propositions customers will adopt and pay for.
 
-I have also worked with technology and AI solution providers, helping them develop markets, build partnerships, refine their commercial propositions and sell technology into businesses.
+**Business Development & Partnerships**  
+Building commercial ecosystems across technology providers, marketplaces, platforms and distribution partners.
 
-That combination has shaped the way I approach technology:
+**Marketplace & Platform Strategy**  
+Supply, demand, pricing, inventory, transaction layers, data products and adjacent monetisation.
 
-Start with the business problem. Understand the customer. Then determine how technology can create measurable value.
+**Entrepreneurial & Investment Perspective**  
+Experience with start-up ventures, investment and seed-capital raising alongside established digital businesses.
 
-My deepest sector experience is in digital marketplaces, PropTech and AutoTech, but the underlying challenges — growth, technology adoption, commercialization, international expansion and business transformation — apply across industries.
+**AI-Enabled Strategy & Execution**  
+Using modern AI tools to increase research depth, analytical speed and prototyping capability while retaining human accountability for management decisions.
 
-## 🛠 Areas of interest & experimentation
+---
 
-Artificial Intelligence · AI Agents · Business Automation · Growth Strategy · Business Development · International Expansion · Technology Commercialization · Digital Transformation · Data & Analytics · Marketplace Strategy · PropTech · AutoTech
+## Portfolio
 
-⸻
+**[AI-Assisted Growth Strategy Casebook](https://javier962.github.io/ai-assisted-growth-strategy-casebook/)** ·
+**[AI Business Opportunity Mapper](https://javier962.github.io/ai-business-opportunity-mapper/)** ·
+**[From Classifieds to Transactions](https://github.com/javier962/from-classifieds-to-transactions)**
 
-## Selected Projects
+---
 
-### AI Business Opportunity Mapper
-A business-first decision-support application for identifying, prioritizing and executing high-value AI opportunities.
+### Connect
 
-More projects will follow around AI adoption, business automation, commercial intelligence, digital growth and technology-enabled business transformation.
+[LinkedIn](https://www.linkedin.com/in/javierortizsanz) · [Website](https://jabu.ortiz)
