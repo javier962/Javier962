@@ -37,6 +37,17 @@ The cases cover:
 
 # Selected Projects
 
+## From Classifieds to Transactions
+
+**Designing an asset-light C2C automotive marketplace**
+
+An AI-assisted strategy and financial business case exploring how an automotive classifieds platform could evolve beyond advertising and lead generation toward a **transaction-enabled marketplace**.
+
+The project connects strategy, marketplace economics and financial modelling across transaction protection, inspection, warranty, financing, ownership transfer and delivery — without requiring the marketplace to own vehicle inventory.
+
+[View the strategy & business case →](https://github.com/javier962/from-classifieds-to-transactions)
+
+---
 ## AI Business Opportunity Mapper
 
 **From business challenge → AI opportunity → management decision → 90-day action plan**
@@ -48,18 +59,6 @@ The model combines AI-assisted opportunity discovery with transparent assessment
 ### [Try the live application →](https://javier962.github.io/ai-business-opportunity-mapper/)
 
 [View the repository →](https://github.com/javier962/ai-business-opportunity-mapper)
-
----
-
-## From Classifieds to Transactions
-
-**Designing an asset-light C2C automotive marketplace**
-
-An AI-assisted strategy and financial business case exploring how an automotive classifieds platform could evolve beyond advertising and lead generation toward a **transaction-enabled marketplace**.
-
-The project connects strategy, marketplace economics and financial modelling across transaction protection, inspection, warranty, financing, ownership transfer and delivery — without requiring the marketplace to own vehicle inventory.
-
-[View the strategy & business case →](https://github.com/javier962/from-classifieds-to-transactions)
 
 ---
 
