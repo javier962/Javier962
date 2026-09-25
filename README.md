@@ -80,8 +80,8 @@ My working model is:
 
 # What I Bring
 
-**Growth & Commercial Strategy**  
-Building new revenue streams, monetisation models and growth plans.
+**Growth, Commercial & Platform Strategy**  
+Building growth strategies, new revenue streams and monetisation models across digital businesses, marketplaces and platforms — connecting pricing, supply, demand, data and transaction opportunities.
 
 **International Expansion**  
 Market prioritisation, market entry, localisation, distribution and partner-led growth.
@@ -91,9 +91,6 @@ Turning technology capabilities into propositions customers will adopt and pay f
 
 **Business Development & Partnerships**  
 Building commercial ecosystems across technology providers, marketplaces, platforms and distribution partners.
-
-**Marketplace & Platform Strategy**  
-Supply, demand, pricing, inventory, transaction layers, data products and adjacent monetisation.
 
 **Entrepreneurial & Investment Perspective**  
 Experience with start-up ventures, investment and seed-capital raising alongside established digital businesses.
